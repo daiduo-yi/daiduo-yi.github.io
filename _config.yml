@@ -103,6 +103,6 @@ theme: yun
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: git@github.com/daiduo-yi/daiduo-yi.github.io.git
+  repo: git@github.com:daiduo-yi/daiduo-yi.github.io.git
   branch: main 
   message: Update Hexo Static Content # 你可以自定义此次部署更新的说明
