@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://daiduo-yi.github.io/2022/03/18/scp-foundation/</loc>
+    
+    <lastmod>2022-03-18</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://daiduo-yi.github.io/2022/03/12/hello-world/</loc>
     
     <lastmod>2022-03-12</lastmod>
@@ -13,7 +22,7 @@
 
   <url>
     <loc>https://daiduo-yi.github.io/</loc>
-    <lastmod>2022-03-13</lastmod>
+    <lastmod>2022-03-18</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
