@@ -80,9 +80,9 @@ pages:
     url: /links
     icon: icon-genderless-line
     color: dodgerblue
-notice:
-  enable: true
-  content: 来了就看看再走吧！
+#notice:
+#  enable: true
+#  content: 来了就看看再走吧！
 comment:
   enable: true
   tips:
